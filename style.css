@@ -1,0 +1,20 @@
+.wrapper{
+    max-width: 400px;
+   
+}
+.cube{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+.flex{
+    display: flex;
+}
+.space-btw{
+    display: flex;
+    justify-content: space-between;
+}
+.cube-yellow{
+    background-color: yellow;
+}
